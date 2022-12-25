@@ -6,19 +6,19 @@ Click on the link below for live preview of the project
 
 ### SRK Portfolio Screenshot 1
 
-![SRK70900](<https://github.com/SRK70900/PersonalPortfolio-/blob/master/Screenshot%20(22).png>)
+![SRK70900](https://github.com/SRK70900/Personal-Portfolio/blob/master/Screenshot%20(22).png)
 
 ### SRK Portfolio Screenshot 2
 
-![SRK70900](<https://github.com/SRK70900/PersonalPortfolio-/blob/master/Screenshot%20(23).png>)
+![SRK70900](https://github.com/SRK70900/Personal-Portfolio/blob/master/Screenshot%20(23).png)
 
 ### SRK Portfolio Screenshot 3
 
-![SRK70900](<https://github.com/SRK70900/PersonalPortfolio-/blob/master/Screenshot%20(24).png>)
+![SRK70900](https://github.com/SRK70900/Personal-Portfolio/blob/master/Screenshot%20(24).png)
 
 ### SRK Portfolio Screenshot 3
 
-![SRK70900](<https://github.com/SRK70900/PersonalPortfolio-/blob/master/Screenshot%20(25).png>)
+![SRK70900](https://github.com/SRK70900/Personal-Portfolio/blob/master/Screenshot%20(25).png)
 
 ## Introduction
 
